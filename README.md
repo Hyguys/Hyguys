@@ -5,7 +5,7 @@
   Chemical Engineering gradute, but aspiring software <strong>.NET</strong> developer. <br>
   Currently in a diverse role that involes chemical process modeling, control and optimization, but also software development.
 </p>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p align="left">
   ⚗️ Engineering Skills: PID Controllers, Advanced Control Strategies, Real Time Optimization, Meta-heuristics, Simulation Optimization, Mixed Integer Programming, Steady State Modeling, Dynamic Plant Modeling, Arduino, Process Simulation <br>
   💻 Software Development Skills: SQL, .NET APIs, .NET Windows Forms, .NET Web development with Blazor
