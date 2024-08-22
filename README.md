@@ -89,6 +89,8 @@
   </tr>
 </table>
 
+TO-DO: put projects and descriptions here
+
 <h3 align="center"><b>🏆 GitHub Profile Trophy</b></h3>
 
 <p align="center">
