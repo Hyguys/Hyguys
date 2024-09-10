@@ -63,32 +63,7 @@
   </a>
 </p>
 
-<h3 align="center"><b>⚙️ GitHub Analytics</b></h3>
-
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Hyguys&theme=dark&hide_border=true&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td style="border: none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyguys&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td style="border: none;">
-      <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Hyguys&theme=dark&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
+<h3 align="center"><b>⚙️ Main Projects</b></h3>
 TO-DO: put projects and descriptions here
 
 <h3 align="center"><b>🏆 GitHub Profile Trophy</b></h3>
