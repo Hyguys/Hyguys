@@ -10,9 +10,15 @@
 
 
 <p align="left">
-  ⚗️ Engineering Skills: PID Controllers, Advanced Control Strategies, Real Time Optimization, Meta-heuristics, Simulation Optimization, Mixed Integer Programming, Steady State Modeling, Dynamic Plant Modeling, Arduino, Process Simulation<br>
-  💻 Software Development Skills: SQL, .NET APIs, .NET Windows Forms, .NET Web Development with Blazor, .NET Windows Services
-</p>
+  ⚗️ Engineering Skills: 
+  Control - PID Controllers, Advanced Control Strategies, Real Time Optimization, Arduino, OPC Communication, Soft Sensors
+  Optimization - Meta-heuristics, Simulation Optimization, Mixed Integer Programming
+  Simulation - Steady State Modeling, Dynamic Plant Modeling, Process Simulation<br>
+  💻 Software Development Skills: 
+  SQL - Management, Design and Optimization
+  .NET - APIs, WinForms, Web Development with Blazor, Windows Services
+  Azure - VPS Setup and Management
+  </p>
 
 <p align="left">
   ✉️ Wanna have a conversation? Feel free to contact me! ⤵️
