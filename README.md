@@ -141,27 +141,3 @@
   </p>
 
 </div>
-
-
-<h3 align="center"><b>🏆 GitHub Profile Trophy</b></h3>
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Hyguys&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-<h3 align="center"><b>📍 Profile Visitor Count</b></h3>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Hyguys/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
